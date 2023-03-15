@@ -11,6 +11,8 @@ Je suis en formation développeur web et accessibilité, j'habite à RAON L'ETAP
 
 Lanquages ...
 
+![HTML5](./img/HTML5.svg) ![CSS3](./img/CSS3.svg)
+
 
 
 
