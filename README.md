@@ -1,4 +1,4 @@
-### Bonjour, je m'appel Julien 👋
+### Bonjour, moi c'est Julien 👋
 ---
 
 Je suis en formation développeur web et accessibilité, j'habite à RAON L'ETAPE ( 88), en France.
@@ -7,8 +7,10 @@ Je suis en formation développeur web et accessibilité, j'habite à RAON L'ETAP
 - Je me prepare pour passer un " Titre pro Développeur web et web mobile.
 
 ### J'apprend
+---
 
 Lanquages ...
+
 
 
 
