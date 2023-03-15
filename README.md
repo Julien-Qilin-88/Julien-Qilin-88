@@ -1,4 +1,16 @@
-### Hi there 👋
+### Bonjour, je m'appel Julien 👋
+---
+
+Je suis en formation développeur web et accessibilité, j'habite à RAON L'ETAPE ( 88), en France.
+
+- J'apprend le développement web ( HTML, CSS, JAVASCRIPT, React, Node.JS, PostgreSQL, ... ) avec [Oclock](https://oclock.io/), promo Qilin.
+- Je me prepare pour passer un " Titre pro Développeur web et web mobile.
+
+### J'apprend
+
+Lanquages ...
+
+
 
 <!--
 **Julien-Qilin-88/Julien-Qilin-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
